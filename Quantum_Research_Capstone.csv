@@ -1,0 +1,6 @@
+Parameter,Value
+Number of Qubits,3
+Superposition,Hadamard Gate
+Entanglement,CNOT Gate
+Controlled Phase,pi/2
+Quantum Entropy,1.0
